@@ -1,6 +1,6 @@
 <a href="https://discord.gg/UDfBDeVMpU" target="_blank"> <img src="https://cdn.discordapp.com/attachments/907721183343034428/919316519681413130/Evil_Buddys_Github.png" alt="Evil Buddy's Github"/></a>
 
-<a>[Mon Discord](https://discord.gg/9qXe59UajH)</a>
+<a>[Mon Discord](https://discord.gg/9qXe59UajH)</a><br>
 <a>[Le Discord de la Xoverse](https://discord.gg/UDfBDeVMpU)</a>
 
 📩・**Vous-voulez me contacter ? Venez sur mon [Discord](https://discord.gg/9qXe59UajH) ou ajoutez moi : [Xoverse] Evil Buddy#8112**
