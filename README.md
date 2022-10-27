@@ -2,9 +2,7 @@
 
 <a>[Mon Discord](https://discord.gg/9qXe59UajH)</a>
 
-<a>[Le Discord de la Xoverse](https://discord.gg/UDfBDeVMpU)</a>
-
-📩・**Vous-voulez me contacter ? Venez sur mon [Discord](https://discord.gg/9qXe59UajH) ou ajoutez moi : [Xoverse] Evil Buddy#8112**
+📩・**Vous-voulez me contacter ? Venez sur mon [Discord](https://discord.gg/9qXe59UajH) ou ajoutez moi : Evil Buddy#8112**
 
 🌐・[**Site internet**](https://evilbuddy.github.io/)
 <h3 style="font-family:verdana" align="left">Languages que je connais/ai de l'expérience :</h3>
