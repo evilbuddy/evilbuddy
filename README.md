@@ -1,27 +1,29 @@
-<a href="https://discord.gg/9qXe59UajH" target="_blank"><img src="https://cdn.discordapp.com/attachments/907721183343034428/919316519681413130/Evil_Buddys_Github.png" alt="Evil Buddy's Github"/></a>
-# 
-[Mon serveur Discord](https://discord.gg/9qXe59UajH)
+## Hi !
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evilbuddy.evilbuddy)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-gray?logo=arch-linux)
+![Hyprland](https://img.shields.io/badge/Hyprland-gray?logo=hyprland)
 
-📩・**Vous souhaitez me contacter ? Venez sur mon [serveur Discord](https://discord.gg/9qXe59UajH) ou ajoutez moi : `Evil Buddy#8112`**
+Least active GitHub user
 
-🌐・[**Site internet**](https://evilbuddy.github.io/)
-# 
-<h3 style="font-family:verdana" align="left">Languages que je connais/ai de l'expérience :</h3>
-<p align="left">
-    <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-    </a>
-    <a href="https://docs.microsoft.com/fr-fr/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-    </a>
-</p>
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
+## Languages, Libraries & Tools
+![C++](https://img.shields.io/badge/C++-gray?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-gray?logo=python)
+![PHP](https://img.shields.io/badge/PHP-gray?logo=php)
+![HTML](https://img.shields.io/badge/HTML-gray?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-gray?logo=css3)
+![JS](https://img.shields.io/badge/JS-gray?logo=javascript)
+
+![.NET](https://img.shields.io/badge/.NET-gray?logo=dotnet)
+![Unity](https://img.shields.io/badge/Unity-gray?logo=unity)
+![Godot](https://img.shields.io/badge/Godot-gray?logo=godot-engine)
+![Qt](https://img.shields.io/badge/Qt-gray?logo=qt)
+![OpenCV](https://img.shields.io/badge/OpenCV-gray?logo=opencv)
+
+![Neovim](https://img.shields.io/badge/Neovim-gray?logo=neovim)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-gray?logo=sublime-text)
+![Git](https://img.shields.io/badge/Git-gray?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)
+
+## Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=evilbuddy&show_icons=true&count_private=true&theme=catppuccin_mocha" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilbuddy&layout=compact&count_private=true&theme=catppuccin_mocha" />
